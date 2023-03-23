@@ -1,6 +1,0 @@
-total 8
-drwxr-xr-x@  5 nikolaybelyakov  staff  160 Mar  2 13:26 .
-drwx------@ 17 nikolaybelyakov  staff  544 Feb 27 23:56 ..
-drwxr-xr-x@ 14 nikolaybelyakov  staff  448 Mar  2 13:26 .git
--rw-r--r--@  1 nikolaybelyakov  staff    5 Feb 27 16:59 README.md
--rw-r--r--@  1 nikolaybelyakov  staff    0 Mar  2 13:26 test.txt
