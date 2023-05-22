@@ -1,4 +1,5 @@
 #!/bin/bash
+#Alpha version of astra linux workstation preparation script
 
 # Check if the system time is accurate
 if [ $(date +%s) -lt 1577836800 ]; then
@@ -17,4 +18,4 @@ echo All packages was updated
 # Open /etc/hostname in nano
 sudo nano /etc/hostname
 
-exit 0
+exit 
